@@ -1,0 +1,18 @@
+[package]
+name = "unrolled-linked-list"
+description = "The implementation of the unrolled linked list in rust"
+version = "1.0.0"
+license-file = "LICENSE"
+readme = "README.md"
+homepage = "https://github.com/besok/unrolled-linked-list"
+repository = "https://github.com/besok/unrolled-linked-list"
+authors = ["BorisZhguchev <zhguchev@arrival.com>"]
+keywords = ["linked-list", "unrolled-linked-list","structure","data-structure" ]
+categories = ["libraries"]
+
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
