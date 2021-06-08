@@ -1,7 +1,7 @@
 [package]
 name = "unrolled-linked-list"
 description = "The implementation of the unrolled linked list in rust"
-version = "1.0.0"
+version = "1.0.1"
 license-file = "LICENSE"
 readme = "README.md"
 homepage = "https://github.com/besok/unrolled-linked-list"

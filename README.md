@@ -11,7 +11,7 @@ The true benefits of the unrolled linked list come in the form of caching. The u
 ### How to use
 
 The dependency can be found as following:
-``` unrolled-linked-list = 1.0.0 ```
+``` unrolled-linked-list = 1.0.1 ```
 
 Example:
 ```rust
