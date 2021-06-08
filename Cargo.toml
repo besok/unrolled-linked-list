@@ -8,7 +8,7 @@ homepage = "https://github.com/besok/unrolled-linked-list"
 repository = "https://github.com/besok/unrolled-linked-list"
 authors = ["BorisZhguchev <zhguchev@arrival.com>"]
 keywords = ["linked-list", "unrolled-linked-list","structure","data-structure" ]
-categories = ["libraries"]
+categories = ["algorithms","caching","data-structures"]
 
 edition = "2018"
 
